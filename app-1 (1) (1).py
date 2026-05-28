@@ -627,46 +627,36 @@ TEAM_MEMBERS = [
     {
         'name'   : 'Sonali Patra',
         'reg'    : '24C216A45',
-        'role'   : 'Team Lead & ML Engineer',
         'emoji'  : '👩‍💻',
         'gmail'  : 'sonalipatra2004@gmail.com',
-        'contrib': 'Model training, Streamlit app development',
         'photo'  : 'sonali.jpeg'
     },
     {
         'name'   : 'Jagruti Parida',
         'reg'    : '24C216A47',
-        'role'   : 'Data Engineer',
         'emoji'  : '👩‍🔬',
         'gmail'  : 'paridaj320@gmail.com',
-        'contrib': 'Dataset collection and preprocessing',
         'photo'  : 'jagruti.jpeg'
     },
     {
         'name'   : 'Dharitri Pradhan',
         'reg'    : '24C216A30',
-        'role'   : 'Deep Learning Researcher',
         'emoji'  : '👩‍💡',
         'gmail'  : 'pradhandharitri319@gmail.com',
-        'contrib': 'CNN architecture design and evaluation',
         'photo'  : 'dharitri.jpeg'
     },
     {
         'name'   : 'Smitarani Mohapatra',
         'reg'    : '24C213A05',
-        'role'   : 'Frontend Developer',
         'emoji'  : '👩‍🎨',
         'gmail'  : 'smitaranimahapatra993@gmail.com',
-        'contrib': 'UI/UX design and documentation',
-        'photo'  : 'smitarani.jpeg'
+        'photo'  : 'smita.jpeg'
     },
     {
         'name'   : 'Barsha Priyadarshini Singh',
         'reg'    : '24C219A30',
-        'role'   : 'Backend Developer',
         'emoji'  : '👩‍🏫',
         'gmail'  : 'barshasingh971@gmail.com',
-        'contrib': 'Model deployment and testing',
         'photo'  : 'barsha.jpeg'
     },
 ]
@@ -677,6 +667,7 @@ GUIDE = {
     'dept'       : 'Department of Computer Application',
     'university' : 'ITER, SOA University, Bhubaneswar',
     'emoji'      : '👨‍🏫'
+    'photo'      : 'guide.jpeg'
 }
 
 # ══════════════════════════════════════════════════════
